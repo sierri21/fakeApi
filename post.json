@@ -1,0 +1,25 @@
+{
+    "posts" = [
+        {
+            "name": "Лукоморье",
+            "author": "А. Пушкин",
+            "date": "2020-01-1",
+            "href": "https://www.culture.ru/poems/4447/u-lukomorya-dub-zelenyi",
+            "status": "false"
+        },
+        {
+            "name": "Послушайте!",
+            "author": "В. Маяковский",
+            "date": "1914,0,1",
+            "href": "https://www.culture.ru/poems/21323/poslushaite",
+            "status": "false"
+        },
+        {
+            "name": "Кони привередливые",
+            "author": "В. Высоцкий",
+            "date": "1972,0,1",
+            "href": "https://www.culture.ru/poems/19303/koni-priveredlivye",
+            "status": "false"
+        }
+    ]
+}
